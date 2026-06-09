@@ -15,3 +15,9 @@ Enterprise network design templates and reference architectures.
 ## Purpose
 
 This repository contains reusable templates, checklists, and design references for enterprise networking projects.
+
+## Available Templates
+
+- High Level Design (HLD)
+- Low Level Design (LLD)
+- Branch Office Network Design
