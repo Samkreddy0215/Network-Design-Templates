@@ -21,3 +21,17 @@ This repository contains reusable templates, checklists, and design references f
 - High Level Design (HLD)
 - Low Level Design (LLD)
 - Branch Office Network Design
+- 
+## Design Deliverables
+
+- High-Level Design (HLD)
+- Low-Level Design (LLD)
+- Physical Topology
+- Logical Topology
+- IP Addressing Plan
+- VLAN Design
+- Routing Design
+- Security Design
+- High Availability Design
+- Implementation Checklist
+- Validation and Test Plan
